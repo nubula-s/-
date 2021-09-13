@@ -1,4 +1,4 @@
-# -
+# -WEIFURONG//
 HomeworkTest
 #include<stdio.h>
 int count = 0; //全局定义解 
